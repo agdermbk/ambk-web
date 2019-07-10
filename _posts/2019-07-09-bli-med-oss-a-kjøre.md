@@ -4,7 +4,7 @@ title: "Bli med oss å kjøre!"
 author: "Jaran Flaath"
 categories: documentation
 tags: [documentation]
-image: rc-3.jpg
+image: rc-3.webp
 ---
 
 ## Ønsker du være med å bedrive verdens beste hobby? 
