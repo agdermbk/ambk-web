@@ -1,6 +1,11 @@
 <header class="site-header">
   <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    {% if page.title == "Home" %}
+      <img url="{{ site.github.url }}/_assets/img/ambk-logo.png" />
+    {% else %}
+      {{ page.title }} | {{ site.title }}
+{% endif %}
+    <!-- <a href="{{ site.github.url }}/">{{ site.title }}</a> -->
   </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
