@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bli med oss å kjøre!"
+title: "Bli med oss å kjøre"
 author: "Jaran Flaath"
 categories: documentation
 tags: [documentation]
