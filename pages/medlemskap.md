@@ -19,3 +19,7 @@ Vi tilbyr også familiemedlemskap. Disse koster 1.5 ganger vanlig pris (gjelder 
 
 Har du spørsmål, ta kontakt på [epost](mailto:post@kmbk.net) eller via [Facebook](https://facebook.com/kmbkrc). 
 
+## Kjøreavgift
+
+Vi tar kjøreavgift for ikke-medlemmer som benytter anleggene våre. Dette er kr 100 pr dag og betales via Vipps. Søk opp AMBK og velg Kjøreavgift fra menyen i appen. 
+
