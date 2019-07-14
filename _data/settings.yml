@@ -9,6 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Medlemskap', folder: 'pages', file: 'medlemskap.html'}
 - {name: 'Terminliste', folder: 'pages', file: 'terminliste.html'}
+- {name: 'Våre baner', folder: 'pages', file: 'racetrack.html'}
 - {name: 'Bilder og video', folder: 'pages', file: 'media.html'}
 - {name: 'Om AMBK', folder: 'pages', file: 'about.html'}
 #- {name: 'Målsetning', folder: 'pages', file: 'documentation.html'}
